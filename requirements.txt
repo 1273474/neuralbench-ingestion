@@ -1,0 +1,20 @@
+# ── NeuralBench TRIBE v2 Ingestion Service ──────────────────────
+# Core API
+fastapi
+uvicorn
+python-multipart
+pydantic
+
+# Video I/O (ffmpeg wrapper for pythonic extraction)
+ffmpeg-python
+
+# ── PyTorch ML Stack ────────────────────────────────────────────
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+
+# Numerical
+numpy
+scipy

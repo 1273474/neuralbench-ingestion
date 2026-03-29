@@ -1,0 +1,26 @@
+# Python
+venv/
+.venv/
+env/
+.env
+bin/
+lib/
+share/
+include/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# NeuralBench Specific
+*.mp4
+*.mov
+*.mkv
+*.avi
+sample_test.mp4
+
+# OS
+.DS_Store
+Thumbs.db
